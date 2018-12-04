@@ -1,2 +1,2 @@
 language: java
-mvn test -Dcucumber.options="classpath:features/ss"
+mvn test
